@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-  <h1><img src="./src/assest/logo.png"></h1>
+  <h1><img src="./src/assest/logo.png" style="height: 80; text-align: center;"></h1>
   <p>Essa é uma aplicação voltada para punho social,<br /> a ideia é disponibilizar 
     para ONGs que não tem como comprar um sistema.<br />
   </p>
