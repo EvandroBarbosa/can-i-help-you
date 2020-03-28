@@ -6,7 +6,7 @@ import api from '../../services/api'
 
 import Logo from '../../assest/logo.png'
 
-import Canhelp from '../../assest/can.png'
+import Canhelp from '../../assest/canhelp.png'
 import'./styles.css';
 
 export default function Logon() {
