@@ -1,6 +1,6 @@
 <html lang="en">
 <body>
-  <h1>App <img src="./src/assets/logo.png" height="80"></h1>
+  <h1><img src="./src/assets/logo.png" height="50"></h1>
 
   <p>Aplicação desenvolvida em  <a href="https://react-native.org/" target="_blank">React Native</a>,<br />
     com uso das tecnologia do <a href="https://expo.io/" target="_blank">EXPO</a>, que serve para rodar a Aplicação<br />
