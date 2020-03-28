@@ -23,7 +23,7 @@
   <p>Após registrada a ONG poderá fazer seu login e ter acesso a pagina home da aplicação</p>
 
   <h2>Tela de novos casos</h2>
-  <img src="./src/assest/newincident.png">
+  <img src="./src/assest/newIncident.png">
   <p>Depois de já ter se registrado e logado na aplicação<br /> a ONG em questão poderá registrar os caso em que precisa de ajuda</p>
 
 </body>
